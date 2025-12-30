@@ -1,0 +1,1 @@
+{"timestamp": "2025-12-26T21:06:54.889533", "event_type": "ROUTING_DECISION", "details": {"email_id": "msg_999", "priority": "Normal", "queue": "General", "intent": "Inquiry", "sentiment": "Neutral", "reasoning": ""}}

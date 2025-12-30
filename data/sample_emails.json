@@ -1,0 +1,17 @@
+[
+    {
+        "id": "email_001",
+        "subject": "Status of my Maturity Claim",
+        "body": "Hello, I submitted my policy bond for Policy 987654321 last week. My PAN is ABCDE1234F. When will I get the money?"
+    },
+    {
+        "id": "email_002",
+        "subject": "Angry Complaint!!!",
+        "body": "This is ridiculous. I have been calling for 10 days regarding my renewal. My policy is 112233445. If you don't solve this I will go to consumer court."
+    },
+    {
+        "id": "email_003",
+        "subject": "General Enquiry",
+        "body": "Hi, what is the age limit for the Jeevan Anand plan? Thanks."
+    }
+]

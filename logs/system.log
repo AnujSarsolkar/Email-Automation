@@ -1,0 +1,142 @@
+2025-12-26 20:56:04,825 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-12-26 21:03:49,158 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-12-26 21:06:46,089 - INFO - Fetching all recognizers for language en
+2025-12-26 21:06:54,891 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:07,891 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:16,476 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:16,476 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:24,118 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:24,825 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:24,825 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:32,649 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:32,650 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:33,218 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:41,040 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 09:57:41,040 - INFO - Fetching all recognizers for language en
+2025-12-27 09:57:49,387 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:01:47,862 - INFO - Fetching all recognizers for language en
+2025-12-27 10:01:56,402 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:05:43,950 - INFO - Fetching all recognizers for language en
+2025-12-27 10:05:52,473 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:08:20,157 - INFO - Fetching all recognizers for language en
+2025-12-27 10:08:28,691 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:22:24,507 - INFO - Fetching all recognizers for language en
+2025-12-27 10:22:33,030 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:22:33,030 - INFO - Fetching all recognizers for language en
+2025-12-27 10:22:41,405 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:22:41,406 - INFO - Fetching all recognizers for language en
+2025-12-27 10:22:49,780 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:22:49,780 - INFO - Fetching all recognizers for language en
+2025-12-27 10:22:58,766 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:22:58,766 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:07,151 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:23:07,151 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:15,503 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:23:15,503 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:23,837 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:23:23,837 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:32,214 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:23:32,214 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:40,587 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:23:40,587 - INFO - Fetching all recognizers for language en
+2025-12-27 10:23:48,981 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:16,497 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:21,083 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:21,083 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:25,439 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:25,439 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:29,820 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:29,820 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:34,222 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:34,222 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:38,611 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:38,612 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:42,971 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:42,971 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:47,328 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:47,328 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:51,682 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:51,682 - INFO - Fetching all recognizers for language en
+2025-12-27 10:41:56,017 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:41:56,017 - INFO - Fetching all recognizers for language en
+2025-12-27 10:42:00,428 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:47:12,161 - INFO - Fetching all recognizers for language en
+2025-12-27 10:48:46,141 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:48:46,142 - INFO - Fetching all recognizers for language en
+2025-12-27 10:50:10,876 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:50:10,877 - INFO - Fetching all recognizers for language en
+2025-12-27 10:51:51,149 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:51:51,149 - INFO - Fetching all recognizers for language en
+2025-12-27 10:53:26,141 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:53:26,142 - INFO - Fetching all recognizers for language en
+2025-12-27 10:55:11,597 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:55:11,597 - INFO - Fetching all recognizers for language en
+2025-12-27 10:57:00,343 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:57:00,343 - INFO - Fetching all recognizers for language en
+2025-12-27 10:58:32,897 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:58:32,898 - INFO - Fetching all recognizers for language en
+2025-12-27 10:59:03,987 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 10:59:03,987 - INFO - Fetching all recognizers for language en
+2025-12-27 11:00:21,692 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 11:00:21,692 - INFO - Fetching all recognizers for language en
+2025-12-27 11:02:44,635 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:26:37,286 - INFO - Fetching all recognizers for language en
+2025-12-27 14:27:42,047 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:27:42,047 - INFO - Fetching all recognizers for language en
+2025-12-27 14:29:05,546 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:29:05,546 - INFO - Fetching all recognizers for language en
+2025-12-27 14:30:40,908 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:30:40,908 - INFO - Fetching all recognizers for language en
+2025-12-27 14:32:00,677 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:32:00,677 - INFO - Fetching all recognizers for language en
+2025-12-27 14:33:43,091 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:33:43,092 - INFO - Fetching all recognizers for language en
+2025-12-27 14:36:42,523 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:36:42,523 - INFO - Fetching all recognizers for language en
+2025-12-27 14:39:22,469 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:39:22,469 - INFO - Fetching all recognizers for language en
+2025-12-27 14:40:50,443 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:40:50,444 - INFO - Fetching all recognizers for language en
+2025-12-27 14:42:25,166 - INFO - Event: ROUTING_DECISION - 
+2025-12-27 14:42:25,167 - INFO - Fetching all recognizers for language en
+2025-12-27 14:44:12,838 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:35:07,601 - INFO - Fetching all recognizers for language en
+2025-12-29 14:36:47,329 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:36:47,330 - INFO - Fetching all recognizers for language en
+2025-12-29 14:38:08,763 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:38:08,764 - INFO - Fetching all recognizers for language en
+2025-12-29 14:39:41,451 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:39:41,451 - INFO - Fetching all recognizers for language en
+2025-12-29 14:41:02,136 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:41:02,136 - INFO - Fetching all recognizers for language en
+2025-12-29 14:42:29,954 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:42:29,954 - INFO - Fetching all recognizers for language en
+2025-12-29 14:43:51,296 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:43:51,297 - INFO - Fetching all recognizers for language en
+2025-12-29 14:45:30,632 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:45:30,632 - INFO - Fetching all recognizers for language en
+2025-12-29 14:46:55,480 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:46:55,480 - INFO - Fetching all recognizers for language en
+2025-12-29 14:48:20,605 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 14:48:20,605 - INFO - Fetching all recognizers for language en
+2025-12-29 14:50:10,532 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:47:47,237 - INFO - Fetching all recognizers for language en
+2025-12-29 16:49:13,823 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:49:13,825 - INFO - Fetching all recognizers for language en
+2025-12-29 16:50:28,831 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:50:28,831 - INFO - Fetching all recognizers for language en
+2025-12-29 16:51:53,226 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:51:53,227 - INFO - Fetching all recognizers for language en
+2025-12-29 16:53:09,857 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:53:09,858 - INFO - Fetching all recognizers for language en
+2025-12-29 16:54:35,567 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:54:35,568 - INFO - Fetching all recognizers for language en
+2025-12-29 16:55:56,794 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:55:56,795 - INFO - Fetching all recognizers for language en
+2025-12-29 16:57:37,920 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:57:37,921 - INFO - Fetching all recognizers for language en
+2025-12-29 16:59:03,999 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 16:59:04,000 - INFO - Fetching all recognizers for language en
+2025-12-29 17:00:33,370 - INFO - Event: ROUTING_DECISION - 
+2025-12-29 17:00:33,371 - INFO - Fetching all recognizers for language en
+2025-12-29 17:02:20,078 - INFO - Event: ROUTING_DECISION - 

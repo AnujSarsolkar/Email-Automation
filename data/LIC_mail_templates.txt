@@ -1,0 +1,333 @@
+# LIC Customer Email Templates
+
+## Email 1: Policy Premium Payment Issue
+
+**From:** rajesh.kumar@email.com  
+**To:** customerservice@licindia.com  
+**Subject:** Unable to Pay Premium for Policy No. 456789123
+
+Dear Sir/Madam,
+
+I am writing to bring to your attention that I have been trying to pay my premium for policy number 456789123 for the past three days through the online portal, but the payment is failing repeatedly. The amount of Rs. 15,240 is being debited from my account but not reflecting in the LIC portal.
+
+My bank has confirmed that the transaction was successful from their end. I have attached the transaction screenshots for your reference. My premium due date is approaching on 15th January 2025, and I am worried about policy lapse.
+
+Could you please look into this matter urgently and update me on the status?
+
+Policy Number: 456789123  
+Premium Amount: Rs. 15,240  
+Transaction IDs: TXN987654321, TXN987654322
+
+Thank you for your assistance.
+
+Best regards,  
+Rajesh Kumar  
+Mobile: +91-9876543210
+
+---
+
+## Email 2: Maturity Claim Request
+
+**From:** priya.sharma@email.com  
+**To:** claims@licindia.com  
+**Subject:** Maturity Claim for Policy No. 789456123
+
+Dear Claims Department,
+
+My LIC policy number 789456123 (Jeevan Anand) has matured on 10th December 2024. I would like to submit my maturity claim and request you to guide me through the process.
+
+Please let me know:
+1. What documents are required for maturity claim?
+2. Can I submit the documents online or do I need to visit the branch?
+3. How long will it take to process the claim?
+4. What is the maturity amount I will receive?
+
+I have all my original policy documents and identity proofs ready. Kindly provide the necessary information at the earliest.
+
+Policy Details:
+- Policy Number: 789456123
+- Policy Type: Jeevan Anand
+- Maturity Date: 10th December 2024
+
+Looking forward to your prompt response.
+
+Warm regards,  
+Priya Sharma  
+Mobile: +91-9988776655
+
+---
+
+## Email 3: Nominee Update Request
+
+**From:** amit.patel@email.com  
+**To:** service@licindia.com  
+**Subject:** Request to Update Nominee Details - Policy No. 321654987
+
+Dear LIC Team,
+
+I hold a LIC policy with policy number 321654987. Due to recent changes in my family circumstances, I need to update the nominee details on my policy. My daughter has recently turned 18 and I want to add her as a joint nominee along with my spouse.
+
+Current Nominee: Sneha Patel (Wife) - 100%
+Proposed Change:
+- Sneha Patel (Wife) - 50%
+- Ananya Patel (Daughter) - 50%
+
+Could you please guide me on:
+1. The process to update nominee details
+2. Required documents and forms
+3. Whether I need to visit the branch office or can this be done online
+
+I would appreciate your quick response as I want to complete this formality at the earliest.
+
+Thank you.
+
+Regards,  
+Amit Patel  
+Policy No: 321654987  
+Mobile: +91-8877665544
+
+---
+
+## Email 4: Policy Document Lost
+
+**From:** meena.iyer@email.com  
+**To:** customercare@licindia.com  
+**Subject:** Request for Duplicate Policy Document - Policy No. 654123789
+
+Dear Sir/Madam,
+
+I am writing to inform you that I have lost my original policy document during a recent house relocation. My policy number is 654123789 (LIC New Endowment Plan).
+
+I request you to please issue a duplicate policy bond at the earliest. I understand there might be some charges for issuing a duplicate document, and I am ready to pay the required fees.
+
+Please advise me on:
+1. The procedure to obtain duplicate policy document
+2. Charges applicable
+3. Expected timeline for receiving the duplicate document
+4. Documents required from my end
+
+My contact details are:
+Policy Number: 654123789  
+Mobile: +91-9123456780  
+Email: meena.iyer@email.com  
+Address: 45, MG Road, Bangalore - 560001
+
+Thank you for your support.
+
+Best regards,  
+Meena Iyer
+
+---
+
+## Email 5: Premium Reminder and Grace Period Query
+
+**From:** suresh.reddy@email.com  
+**To:** info@licindia.com  
+**Subject:** Premium Due Date and Grace Period - Policy No. 147258369
+
+Dear LIC Customer Service,
+
+I have a LIC policy (Jeevan Lakshya) with policy number 147258369. Due to some financial difficulties this month, I might not be able to pay my premium by the due date which is 20th December 2024.
+
+I have the following queries:
+1. What is the grace period available for premium payment?
+2. Will there be any penalty or interest charged if I pay within the grace period?
+3. What happens if the policy lapses? Can it be revived?
+4. Is there any facility for premium holiday or reduced payment for temporary financial hardship?
+
+I have been paying premiums regularly for the past 5 years and this is the first time I am facing this situation. I want to ensure that my policy remains active.
+
+Please provide guidance on this matter.
+
+Policy Number: 147258369  
+Annual Premium: Rs. 24,000  
+Due Date: 20th December 2024
+
+Thanks and regards,  
+Suresh Reddy  
+Mobile: +91-9876501234
+
+---
+
+## Email 6: Loan Against Policy
+
+**From:** vijay.singh@email.com  
+**To:** loans@licindia.com  
+**Subject:** Query Regarding Loan Against Policy No. 963852741
+
+Dear Sir/Madam,
+
+I am a policyholder with LIC policy number 963852741 (Money Back Plan). I have been paying premiums regularly for the past 7 years. Due to an urgent medical requirement in my family, I need immediate funds.
+
+I would like to know:
+1. Am I eligible for a loan against my policy?
+2. What is the maximum loan amount I can avail?
+3. What is the current interest rate for policy loans?
+4. What is the process and documentation required?
+5. How long does it take to disburse the loan amount?
+
+My policy details:
+- Policy Number: 963852741
+- Plan: Money Back - 20 years
+- Sum Assured: Rs. 5,00,000
+- Years completed: 7 years
+
+Please respond urgently as this is a medical emergency.
+
+Thank you.
+
+Regards,  
+Vijay Singh  
+Mobile: +91-9988112233  
+Email: vijay.singh@email.com
+
+---
+
+## Email 7: Complaint About Agent Behavior
+
+**From:** lakshmi.narayanan@email.com  
+**To:** grievance@licindia.com  
+**Subject:** Complaint Against Agent - Policy No. 258147963
+
+Dear Grievance Redressal Cell,
+
+I am writing to file a formal complaint against my LIC agent Mr. Ramesh Kumar (Agent Code: 123456) who sold me policy number 258147963.
+
+Issues faced:
+1. The agent misrepresented the policy features during the sale. I was told it was a pure investment product with guaranteed returns, but later I discovered it is a traditional insurance plan with much lower returns.
+2. He promised annual returns of 12-15%, which is completely misleading.
+3. He is not responding to my calls or messages now when I need policy servicing.
+4. Important policy documents were not provided to me on time.
+
+I feel cheated and want this matter to be investigated. I am considering surrendering this policy due to the misrepresentation.
+
+Policy Details:
+- Policy Number: 258147963
+- Agent Name: Ramesh Kumar
+- Agent Code: 123456
+- Policy Purchase Date: March 2024
+
+I request you to take strict action against this agent and guide me on the surrender process if needed.
+
+Awaiting your response.
+
+Regards,  
+Lakshmi Narayanan  
+Mobile: +91-9876501122  
+Policy No: 258147963
+
+---
+
+## Email 8: Pension Plan Inquiry
+
+**From:** krishna.murthy@email.com  
+**To:** pension@licindia.com  
+**Subject:** Information Required on LIC Pension Plans
+
+Dear LIC Team,
+
+I am 55 years old and planning to retire in the next 2 years. I am interested in purchasing a pension plan from LIC that can provide me with regular monthly income after retirement.
+
+I would like information on:
+1. Different pension plans available with LIC
+2. Minimum and maximum investment amounts
+3. Pension payout options (monthly, quarterly, annually)
+4. Tax benefits available under these plans
+5. Whether I can opt for joint life pension with my spouse
+6. Surrender value and loan facilities
+
+My requirements:
+- Age: 55 years
+- Retirement age: 57 years
+- Expected pension: Rs. 25,000 - 30,000 per month
+- One-time investment capacity: Rs. 15-20 lakhs
+
+Could you please arrange a meeting with your pension plan specialist or share detailed brochures?
+
+Thank you.
+
+Best regards,  
+Krishna Murthy  
+Mobile: +91-9123456789  
+Email: krishna.murthy@email.com  
+Location: Chennai
+
+---
+
+## Email 9: Policy Surrender Request
+
+**From:** neha.gupta@email.com  
+**To:** surrender@licindia.com  
+**Subject:** Policy Surrender Request - Policy No. 741852963
+
+Dear Sir/Madam,
+
+I am holding LIC policy number 741852963 (Term Plan - Jeevan Amar) and due to financial constraints, I wish to surrender this policy.
+
+Policy Details:
+- Policy Number: 741852963
+- Plan: Jeevan Amar (Term Plan)
+- Date of Commencement: 15th April 2020
+- Premium paying term: 20 years
+- Premiums paid: 4 years
+
+I request you to provide information on:
+1. What is the surrender value I will receive?
+2. What is the process for policy surrender?
+3. Required documents for surrender
+4. How long will it take to receive the surrender amount?
+5. Tax implications, if any
+
+Please guide me through this process. I understand that surrendering a policy is not ideal, but due to unavoidable circumstances, I have to take this step.
+
+Looking forward to your response.
+
+Regards,  
+Neha Gupta  
+Mobile: +91-8899776655  
+Email: neha.gupta@email.com
+
+---
+
+## Email 10: Death Claim Submission
+
+**From:** ramesh.choudhary@email.com  
+**To:** deathclaims@licindia.com  
+**Subject:** Death Claim Submission for Policy No. 852963741 - Late Mr. Arun Choudhary
+
+Dear Claims Department,
+
+I am writing to submit a death claim for my late father, Mr. Arun Choudhary, who passed away on 5th November 2024 due to cardiac arrest. He held a LIC policy with number 852963741.
+
+I am the nominee mentioned in the policy and would like to proceed with the claim settlement. Please guide me on:
+
+1. Complete list of documents required for death claim
+2. Claim forms to be filled
+3. Process for submitting documents (online/offline)
+4. Expected time for claim settlement
+5. Any specific requirements due to the cause of death
+
+Documents I have ready:
+- Death certificate
+- Policy document
+- My identity proof (as nominee)
+- Bank account details
+
+Deceased Details:
+- Name: Arun Choudhary
+- Policy Number: 852963741
+- Date of Death: 5th November 2024
+- Cause: Cardiac Arrest
+
+Nominee Details:
+- Name: Ramesh Choudhary (Son)
+- Mobile: +91-9871234560
+- Email: ramesh.choudhary@email.com
+
+This is a difficult time for our family. I request you to process this claim with compassion and at the earliest possible.
+
+Thank you for your understanding.
+
+Sincerely,  
+Ramesh Choudhary  
+Nominee - Policy No. 852963741

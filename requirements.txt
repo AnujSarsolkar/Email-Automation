@@ -1,0 +1,10 @@
+imap-tools
+secure-smtplib
+presidio-analyzer
+presidio-anonymizer
+langchain
+langchain-community
+chromadb
+pydantic
+python-dotenv
+requests
